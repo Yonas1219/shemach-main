@@ -1,0 +1,57 @@
+
+.logo {
+    display: flex;
+    align-items: center;
+    column-gap: 8px;
+}
+
+ .logo img{
+    width: 1.5rem;
+    height: 1.5rem;
+    color: #fff;
+}
+
+h4 {
+    color:#fff
+}
+
+.logo h1{
+    font-size: 1.2rem;
+    font-weight: 700;   
+}
+
+.footer__text {
+    color: #fff;
+}
+
+.footer__quick-links ul li {
+    background: transparent !important;
+}
+
+.footer__quick-links ul li  a {
+    text-decoration: none;
+    color:#fff
+}
+
+p {
+    color: #fff;
+}
+
+i {
+    color: #fff;
+}
+
+.quick__links-title {
+    margin-bottom: 20px;
+    color: #fff;
+    font-size: 1.1rem;
+}
+
+
+
+.footer {
+    margin-top: 10px;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    background: #0a1d37;
+}

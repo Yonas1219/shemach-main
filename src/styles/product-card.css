@@ -1,0 +1,23 @@
+.product__item {
+    cursor: pointer;
+}
+.product__card-bottom .price{
+    color: #0a1d37;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+.product__card-bottom span i{
+    font-size: 1.2rem;
+    padding: 5px;
+    background: #0a1d37;
+    color: #fff;
+    border-radius: 50px;
+}
+
+.product__name a{
+ text-decoration: none;   
+ color: inherit;
+ font-size: inherit;
+ font-weight: inherit;
+}

@@ -1,0 +1,49 @@
+.auth__form {
+	border: 1px solid #ccc;
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0 0 10px #ccc;
+	margin: 0 auto;
+	width: 400px;
+	margin-top: 20px;
+}
+
+.auth__form .form__group {
+	margin-bottom: 40px;
+}
+
+.auth__form .form__group input {
+	width: 100%;
+	height: 40px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 0 10px;
+}
+.auth__form div {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.auth__form div p {
+	padding-top: 6px;
+	color: #111;
+}
+
+.auth__form .form__group label {
+	font-size: 16px;
+	color: #111;
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+
+.auth__form input[type="file"] {
+	cursor: pointer;
+}
+
+.spinner-container {
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background-color: rgba(255, 255, 255, 0.7);
+  }

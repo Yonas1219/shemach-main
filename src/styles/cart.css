@@ -1,0 +1,14 @@
+.table  td img{
+    width: 80px !important;
+    height: 80px !important;
+    object-fit: cover;
+}
+
+td i {
+    cursor: pointer;
+    color: red;
+}
+
+td,th {
+    color: #0a1d37;
+}
